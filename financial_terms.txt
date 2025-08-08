@@ -1,0 +1,200 @@
+1. Asset: Anything of value owned by a business or individual.
+2. Liability: A company's legal financial debts or obligations.
+3. Equity: Ownership interest in a company, calculated as assets minus liabilities.
+4. Revenue: Income generated from normal business operations.
+5. Expense: Cost incurred in the process of earning revenue.
+6. Profit: Financial gain when revenue exceeds expenses.
+7. Loss: Financial shortfall when expenses exceed revenue.
+8. Cash Flow: Net amount of cash being transferred into and out of a business.
+9. Gross Profit: Revenue minus cost of goods sold (COGS).
+10. Net Profit: Remaining income after all expenses, taxes, and interests.
+11. Operating Expense: Expenses required for the day-to-day functioning of the business.
+12. Operating Income: Profit from core business operations, before interest and taxes.
+13. Cost of Goods Sold (COGS): Direct expenses related to production of goods sold.
+14. Balance Sheet: Financial statement showing a company’s assets, liabilities, and equity.
+15. Income Statement: Report showing revenue and expenses over a period.
+16. Cash Flow Statement: Financial statement that provides aggregate data regarding all cash inflows and outflows.
+17. Working Capital: Current assets minus current liabilities.
+18. Current Assets: Assets that can be converted into cash within a year.
+19. Current Liabilities: Obligations due within one year.
+20. Long-term Assets: Assets held for longer than a year (e.g., property, equipment).
+21. Long-term Liabilities: Financial obligations not due within a year.
+22. Shareholder Equity: Owners’ interest in the assets of a business after deducting liabilities.
+23. Dividend: Portion of profits distributed to shareholders.
+24. Dividend Yield: Dividend per share divided by price per share.
+25. Earnings per Share (EPS): Company’s profit divided by the number of outstanding shares.
+26. Price to Earnings Ratio (P/E): Market price per share divided by earnings per share.
+27. Market Capitalization: Total market value of a company’s outstanding shares.
+28. Return on Equity (ROE): Net income divided by shareholder equity.
+29. Return on Assets (ROA): Net income divided by total assets.
+30. Return on Investment (ROI): Gain from investment minus cost divided by cost.
+31. Liquidity: Ability to quickly convert assets to cash.
+32. Solvency: Ability to meet long-term financial obligations.
+33. Leverage: Use of borrowed funds to increase potential return.
+34. Debt-to-Equity Ratio: Total liabilities divided by shareholder equity.
+35. Interest Coverage Ratio: Earnings before interest and taxes divided by interest expense.
+36. Debt Service Coverage Ratio: Net operating income divided by total debt service.
+37. Credit Rating: Assessment of creditworthiness by agencies (e.g., S&P, Moody’s).
+38. Bond: Fixed income instrument representing debt issued by an entity.
+39. Coupon Rate: Annual interest rate paid on a bond.
+40. Maturity Date: Date when bond principal is repaid.
+41. Face Value: Nominal value of a bond at issuance.
+42. Yield to Maturity (YTM): Total return anticipated on a bond if held until maturity.
+43. Capital Gain: Increase in value of an asset compared to purchase price.
+44. Capital Loss: Loss realized when asset sells below purchase price.
+45. Capital Expenditure (CapEx): Funds used by a company to acquire or upgrade assets.
+46. Operating Leverage: Sensitivity of operating income to changes in revenue.
+47. Break-even Point: Sales volume at which total revenue equals total cost.
+48. Budget: Financial plan estimating income and expenses over time.
+49. Forecast: Financial projection of future revenue and expenses.
+50. Audit: Official inspection of company accounts by an independent party.
+51. Accrual Accounting: Revenues and expenses recorded when earned/incurred, not when received/paid.
+52. Cash Accounting: Revenues and expenses recorded when actual cash is exchanged.
+53. Depreciation: Allocation of cost of tangible asset over time.
+54. Amortization: Gradual reduction of debt or asset value over time.
+55. Deferred Revenue: Money received before services are delivered or products are provided.
+56. Prepaid Expense: Expense paid before it is incurred.
+57. Asset Turnover Ratio: Revenue divided by average assets; efficiency measure.
+58. Inventory Turnover Ratio: COGS divided by average inventory; shows inventory efficiency.
+59. Days Sales Outstanding (DSO): Average days to collect revenue from customers.
+60. Days Payable Outstanding (DPO): Average days to pay suppliers.
+61. Gross Margin: Revenue minus COGS, expressed as a percentage of revenue.
+62. Net Margin: Net income as a percentage of revenue.
+63. EBITDA: Earnings before interest, taxes, depreciation, and amortization.
+64. EBIT: Earnings before interest and taxes.
+65. Fiscal Year (FY): 12-month period used for accounting purposes.
+66. Calendar Year (CY): Standard January to December yearly period.
+67. Fiscal Quarter (Q1, Q2, Q3, Q4): Three-month operating period in business.
+68. Forecast Variance: Difference between budgeted and actual numbers.
+69. Scalability: Ability to grow revenue faster than cost.
+70. Synergy: Value created by combining entities offering benefits beyond standalone operations.
+71. Due Diligence: Careful appraisal done before entering into agreement or transaction.
+72. Merger: Combination of two companies into a single entity.
+73. Acquisition: One company purchases assets or shares of another.
+74. Takeover: Acquisition of one company by another.
+75. Initial Public Offering (IPO): First sale of a company's shares to public investors.
+76. Secondary Offering: Sale of new or existing shares by a company after IPO.
+77. Underwriting: Process of evaluating and pricing new securities for issuance.
+78. Prospectus: Disclosure document for investors during securities issuance.
+79. Insider Trading: Illegal trading based on non-public information.
+80. Market Order: Order to buy or sell immediately at current price.
+81. Limit Order: Order to buy or sell at a specific price or better.
+82. Stop-Loss Order: Order to sell if price drops to a specific level.
+83. Bid Price: Buyer’s maximum price.
+84. Ask Price: Seller’s minimum price.
+85. Spread: Difference between bid and ask price.
+86. Market Depth: Measure of market's ability to sustain large orders without big price changes.
+87. Volatility: Measure of price fluctuation over time.
+88. Risk: Possibility of financial loss.
+89. Systematic Risk: Market-wide risk affecting all investments.
+90. Unsystematic Risk: Company-specific risk.
+91. Diversification: Strategy of mixing assets to reduce risk.
+92. Portfolio: Collection of financial investments like stocks, bonds, commodities.
+93. Asset Allocation: Process of spreading investments across asset classes.
+94. Hedge: Investment to reduce risk of adverse price movement.
+95. Derivative: Financial instrument whose value derives from underlying asset.
+96. Option: Contract providing right to buy (call) or sell (put) an asset at set price.
+97. Call Option: Right to buy underlying asset at designated price.
+98. Put Option: Right to sell underlying asset at designated price.
+99. Exercise Price (Strike): Price at which an option can be exercised.
+100. Expiry Date: Date on which option contract expires.
+101. Premium: Price paid for an option contract.
+102. Futures Contract: Agreement to buy/sell at a predetermined price on a future date.
+103. Forward Contract: Private agreement similar to futures but customizable.
+104. Swap: Agreement to exchange cash flows between two parties.
+105. Currency Swap: Exchange of principal and interest in different currencies.
+106. Interest Rate Swap: Exchange of fixed and floating interest payments.
+107. Commodity Futures: Futures based on physical goods (oil, gold, etc.).
+108. Hedge Fund: Investment fund using high-risk strategies for higher return.
+109. Mutual Fund: Investment vehicle pooling money to buy diversified portfolio.
+110. Exchange-Traded Fund (ETF): Tradeable fund tracking index or asset.
+111. Index Fund: Mutual or ETF tracking a market index.
+112. NAV (Net Asset Value): Value of fund’s assets minus liabilities per share.
+113. Fund Manager: Professional managing fund's investments.
+114. 401(k): U.S. retirement savings plan sponsored by employer.
+115. IRA (Individual Retirement Account): U.S. retirement account with tax benefits.
+116. Roth IRA: IRA retirement account with tax-free withdrawals.
+117. Pension Plan: Retirement plan providing income after employment ends.
+118. Defined Benefit Plan: Pension plan paying a fixed benefit upon retirement.
+119. Defined Contribution Plan: Retirement plan based on contributions plus investment gain.
+120. Annuity: Contract paying series of payments during retirement.
+121. Trust: Legal arrangement to manage and hold assets for beneficiaries.
+122. Estate: Total property and obligations left after death.
+123. Estate Planning: Preparing for management/distribution of estate after death.
+124. Gift Tax: Tax on transfers of money or property.
+125. Capital Gains Tax: Tax on profit from sale of asset.
+126. Tax Deduction: Expense subtracted from gross income to reduce tax.
+127. Tax Credit: Reduction in tax liability.
+128. Double Taxation: Earnings taxed twice—corporate and shareholder levels.
+129. Tax Deferred: Taxes postponed to future period.
+130. Tax Exempt: Income not subject to tax.
+131. Audit Trail: Documentation tracking financial transactions.
+132. Fraud: Intentional deception for financial gain.
+133. Financial Statement: Reports summarizing financial performance.
+134. Compliance: Adhering to laws and regulations.
+135. Regulation: Rules governing financial operations.
+136. GAAP (Generally Accepted Accounting Principles): Accounting standards in the U.S.
+137. IFRS (International Financial Reporting Standards): Global accounting standards.
+138. Sarbanes-Oxley Act (SOX): U.S. law for corporate financial practices and reporting.
+139. SEC (Securities and Exchange Commission): U.S. regulator oversees securities markets.
+140. FED (Federal Reserve): U.S. central bank.
+141. Central Bank: National banking authority regulating currency and monetary policy.
+142. Monetary Policy: Policy controlling money supply and interest rates.
+143. Fiscal Policy: Government spending and taxation strategy.
+144. Inflation: Rate at which general price levels for goods/services rise.
+145. Deflation: Decrease in general price levels.
+146. Stagflation: Inflation with stagnant demand and high unemployment.
+147. Hyperinflation: Extremely high and typically accelerating inflation.
+148. Recession: Economic contraction across multiple months.
+149. Depression: Prolonged, severe recession.
+150. Business Cycle: Fluctuations in economic activity.
+151. Economic Indicator: Data used to analyze economy.
+152. GDP: Total value of goods and services produced in a country.
+153. GNP: Gross national product—GDP plus net income from abroad.
+154. PPP (Purchasing Power Parity): Adjustment for price differences across countries.
+155. Trade Balance: Difference between a country’s exports and imports.
+156. Current Account: Balance of trade plus net income and transfers.
+157. Capital Account: Record of capital transfers and foreign investments.
+158. Exchange Rate: Rate at which one currency trades for another.
+159. Fixed Exchange Rate: Value of currency pegged to another currency.
+160. Floating Exchange Rate: Currency value fluctuates based on supply and demand.
+161. Devaluation: Reduction in value of a currency within fixed exchange regime.
+162. Depreciation (Currency): Value decline of a currency in floating regime.
+163. Foreign Direct Investment (FDI): Investment by foreign entity into another country’s business.
+164. Sovereign Debt: Government-issued debt.
+165. Credit Default Swap (CDS): Insurance against default on debt.
+166. Subprime Loan: High-risk loan given to borrowers with poor credit.
+167. Mortgage-Backed Security (MBS): Security backed by mortgage loans.
+168. Collateral: Asset pledged to secure a loan.
+169. Leverage Ratio: Measures degree of financial leverage.
+170. Coverage Ratio: Ability to service debt from income.
+171. Bailout: Financial assistance to prevent failure of insolvent institution.
+172. Bail-In: Restructuring whereby creditors absorb losses to stabilize institution.
+173. Quantitative Easing (QE): Central bank bond purchases to stimulate economy.
+174. Open Market Operations: Buying/selling government securities to influence money supply.
+175. Discount Rate (Federal Reserve): Interest rate charged to banks borrowing from Fed.
+176. Bank Reserve Requirement: Portion of deposits banks must hold.
+177. Money Supply: Total currency and liquid assets in circulation.
+178. Velocity of Money: Speed at which money changes hands.
+179. Fiscal Stimulus: Government spending to spur economic growth.
+180. Crowdfunding: Raising small amounts of capital from many investors via platforms.
+181. Bootstrapping: Building business without external funding.
+182. Angel Investor: Wealthy individual who provides early-stage funding.
+183. Venture Capital (VC): Investment in high-growth, high-risk startups.
+184. Private Equity (PE): Capital investment in private companies.
+185. Leveraged Buyout (LBO): Purchase funded largely by debt.
+186. Mezzanine Financing: Hybrid of debt and equity financing.
+187. Initial Coin Offering (ICO): Unregulated means of crowdfunding via cryptocurrency.
+188. Blockchain: Decentralized digital ledger technology.
+189. Cryptocurrency: Digital or virtual currency using cryptography for security.
+190. Bitcoin: First decentralized cryptocurrency.
+191. Altcoin: Any cryptocurrency alternative to Bitcoin.
+192. Token: Digital asset issued on blockchain.
+193. Stablecoin: Cryptocurrency with value tied to another asset.
+194. Smart Contract: Self-executing contract with terms directly written into code.
+195. Financial Technology (Fintech): Technology-enabled financial innovation.
+196. Robo-Advisor: Automated, algorithm-based digital investment service.
+197. Peer-to-Peer Lending (P2P): Lending between individuals via online platforms.
+198. Mobile Payments: Financial transactions completed via mobile devices.
+199. Microfinance: Financial services to low-income individuals or those without access to traditional banking.
+200. Crowdsourcing: Collective effort to get services or content by soliciting contribution from large groups.
